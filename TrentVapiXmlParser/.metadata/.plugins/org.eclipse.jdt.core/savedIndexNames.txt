@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+D:\Java Work Space\TrentVapiXmlParser\.metadata\.plugins\org.eclipse.jdt.core
+1525907960.index
+2931767499.index
+1025267859.index
+3487310339.index
+3267927573.index
+581834083.index
+2468728398.index
+740195945.index
+2223577481.index
